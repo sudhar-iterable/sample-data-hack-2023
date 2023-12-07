@@ -1,0 +1,34 @@
+{
+    "summary": [
+      [
+        3169,
+        "DLVR-622",
+        "Error when sending proofs to yourself ",
+        0.2135961651802063
+      ],
+      [
+        1383,
+        "PRO-6606",
+        "Proofs are not being able to send. Errors are shown instead.",
+        0.22974392771720886
+      ],
+      [
+        2027,
+        "PRO-2055",
+        "Proof not sending ",
+        0.3818608820438385
+      ],
+      [
+        1486,
+        "PRO-4359",
+        "\"Recipient [email here] is missing required fields\" error message when trying to send proofs",
+        0.47298771142959595
+      ],
+      [
+        3329,
+        "CAMP-1289",
+        "Fortune seeing an error when trying to send proofs to multiple people",
+        0.572319746017456
+      ]
+    ]
+  }
